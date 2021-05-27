@@ -26,6 +26,7 @@ getEmpDetails.prototype.getName = function(){
     return this.name
 }
 
+/*How are you*/
 let emp1 = new getEmpDetails('John1', 30);
 
 console.log (emp1.getName());
